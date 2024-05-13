@@ -1,2 +1,4 @@
-package com.example.bankapp.Controllers.Client;public class ClientController {
+package com.example.bankapp.Controllers.Client;
+
+public class ClientController {
 }

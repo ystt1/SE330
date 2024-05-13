@@ -1,2 +1,4 @@
-package com.example.bankapp.Controllers.Admin;public class AdminController {
+package com.example.bankapp.Controllers.Admin;
+
+public class AdminController {
 }

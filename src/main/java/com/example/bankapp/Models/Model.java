@@ -1,4 +1,4 @@
-package com.example.bankapp.Controllers.Models;
+package com.example.bankapp.Models;
 
 public class Model {
 }

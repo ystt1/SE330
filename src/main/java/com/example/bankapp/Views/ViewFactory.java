@@ -1,4 +1,4 @@
-package com.example.bankapp.Controllers.Views;
+package com.example.bankapp.Views;
 
 public class ViewFactory {
 }
